@@ -1,0 +1,8 @@
+.searchBox, .registrationBox, .login{
+    position: center;
+    margin: auto;
+    margin-top: 10px;
+    display: block;
+    width: 20%
+}
+
